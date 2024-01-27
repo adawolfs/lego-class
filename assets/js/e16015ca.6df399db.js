@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklego_class=self.webpackChunklego_class||[]).push([[700],{5688:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
