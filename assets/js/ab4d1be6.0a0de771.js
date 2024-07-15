@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklego_class=self.webpackChunklego_class||[]).push([[7390],{4469:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

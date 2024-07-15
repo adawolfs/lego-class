@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklego_class=self.webpackChunklego_class||[]).push([[5618],{3268:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/lego-class/blog/tags/docusaurus","allTagsPath":"/lego-class/blog/tags","count":4,"unlisted":false}')}}]);

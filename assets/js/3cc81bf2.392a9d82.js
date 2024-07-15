@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklego_class=self.webpackChunklego_class||[]).push([[6229],{3083:e=>{e.exports=JSON.parse('{"permalink":"/lego-class/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
