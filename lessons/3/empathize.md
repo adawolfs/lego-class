@@ -16,7 +16,7 @@ Estos son solo algunos de los retos que nos rodean, situaciones que requieren no
 En la segunda parte de nuestra sesión, exploraremos cómo un robot equipado con un sensor ultrasónico puede ser fundamental en este esfuerzo. Esta herramienta tecnológica nos permitirá detectar obstáculos y navegar por espacios complejos, ofreciendo nuevas posibilidades para la gestión y conservación de nuestro entorno. Con este enfoque, no solo aprenderemos sobre robótica, sino que también veremos cómo aplicar estos conocimientos para mejorar activamente la salud de nuestro planeta. Prepárense para un viaje de descubrimiento donde la tecnología se une al activismo ambiental para crear soluciones sostenibles y transformadoras."
 :::
 
-#### Instrucciones:
+## Instrucciones:
 
 **Revisión Breve:**
 - Repasar los conceptos y componentes vistos en las sesiones anteriores.

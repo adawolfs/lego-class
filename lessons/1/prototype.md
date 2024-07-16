@@ -23,7 +23,7 @@ _"Vamos a comenzar nuestra sesión de prototipado. Hoy, aprenderemos sobre los c
 
 
 
-Instrucciones:
+### Instrucciones:
 1. Reparto de Equipos:
     - Asigna a cada grupo un kit de Lego Education Spike Prime y una computadora o tablet con el software SPIKE™ App v. 3.4.3 instalado.
 2. Configuración Inicial:
@@ -37,7 +37,7 @@ Tiempo: 10 minutos
 _"El software SPIKE será nuestra herramienta principal para programar y controlar los componentes de nuestros robots. Vamos a explorar juntos cómo navegar por el software y comenzar con los tutoriales interactivos."_
 :::
 
-Instrucciones:
+### Instrucciones:
 1. Exploración del Software:
     * Guía a los estudiantes a través de la interfaz del software, destacando las secciones principales: Inicio, Tutoriales y Proyectos.
     * Explica cómo acceder a los tutoriales y qué esperar de ellos.
@@ -45,16 +45,14 @@ Instrucciones:
     * Indica a los estudiantes que abran el tutorial de inicio en la sección "Comenzar" del software.
 
 
-### Tutoriales Interactivos de Componentes
+## Tutoriales Interactivos de Componentes
 *Duración: 35 minutos*
 
 :::tip[Narrativa]
 "Vamos a seguir los tutoriales interactivos que nos ayudarán a entender cómo usar cada uno de los componentes del kit. Estos tutoriales nos guiarán paso a paso en el proceso de conectar, programar y probar los motores y sensores."
 :::
 
-**Instrucciones:**
-
-#### Uso de la Matriz de Luces (Brick)
+### Uso de la Matriz de Luces (Brick)
 ![Brick](./img/lego/spike-brick.png)
 
 **Tutorial:**
@@ -63,7 +61,7 @@ Instrucciones:
 **Actividad Práctica:**
 - Programar la matriz de luces para mostrar un icono o patrón de luces específico.
 
-#### El Motor
+### El Motor
 
 ![Motor](./img/lego/spike-motor.png)
 
@@ -73,7 +71,7 @@ Instrucciones:
 **Actividad Práctica:**
 - Programar el motor para realizar un movimiento básico, como girar en una dirección específica.
 
-#### El Sensor de Color
+### El Sensor de Color
 
 ![Sensor](./img/lego/spike-color-sensor.png)
 **Tutorial:**
@@ -82,7 +80,7 @@ Instrucciones:
 **Actividad Práctica:**
 - Programar una respuesta basada en la detección de diferentes colores, como cambiar el color de las luces del hub.
 
-#### El Sensor de Distancia
+### El Sensor de Distancia
 ![Sensor](./img/lego/spike-distance.png)
 **Tutorial:**
 - Los estudiantes seguirán el tutorial sobre el uso del sensor de distancia para medir proximidad.
@@ -90,7 +88,7 @@ Instrucciones:
 **Actividad Práctica:**
 - Programar una acción en respuesta a la detección de un objeto cercano, como detener el motor o cambiar la dirección.
 
-#### El Sensor de Fuerza
+### El Sensor de Fuerza
 
 ![Sensor](./img/lego/spike-force.png)
 **Tutorial:**
@@ -99,7 +97,7 @@ Instrucciones:
 **Actividad Práctica:**
 - Programar una acción basada en la presión aplicada, como encender una luz cuando se aplica suficiente presión.
 
-#### El Sensor Giroscópico
+### El Sensor Giroscópico
 
 ![Sensor](./img/lego/spike-brick-gyro.png)
 

@@ -15,7 +15,7 @@ sidebar_position: 1
 
 ---
 
-### Introducción y Revisión
+## Introducción y Revisión
 **Duración:** 10 minutos
 
 :::tip[Narrativa]
@@ -24,7 +24,7 @@ sidebar_position: 1
 "Piensen en los problemas ambientales que enfrentamos a diario: acumulación de basura en los parques, animales en peligro, áreas propensas a inundaciones o puntos de alta contaminación. Nuestro objetivo es diseñar un robot que pueda patrullar y monitorear estas áreas, proporcionando datos cruciales y ayudando en tareas de limpieza y rescate. Este robot será nuestro aliado en la misión de conservar y proteger nuestro entorno."
 :::
 
-#### Instrucciones:
+### Instrucciones:
 **Revisión Breve:**
 - Repasar los componentes del kit de Spike Prime y su uso.
 - Discutir brevemente los conceptos de programación básica vistos en la sesión anterior.

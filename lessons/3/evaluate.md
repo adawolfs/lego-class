@@ -7,15 +7,15 @@ sidebar_position: 4
 **Duracion:** 10 minutos
 :::
 
-#### Objetivo de la Fase:
+## Objetivo de la Fase:
 Evaluar el desempeño del robot y la efectividad de la programación. Proporcionar retroalimentación constructiva y planificar mejoras. Introducir el sistema de incentivos con insignias y puntos para motivar a los estudiantes a lo largo del programa.
 
-#### Descripción de la Fase:
+## Descripción de la Fase:
 :::tip[Narrativa]
 "Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots. Además, revisaremos nuestro progreso en el sistema de recompensas, que nos motiva a seguir mejorando en cada sesión."
 :::
 
-#### Instrucciones:
+### Instrucciones:
 
 **Reflexión y Preguntas Clave**
 **Tiempo:** 3 minutos

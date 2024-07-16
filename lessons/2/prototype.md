@@ -9,23 +9,23 @@ sidebar_position: 3
 :::
 
 
-#### Objetivo de la Fase:
+## Objetivo de la Fase:
 - Construir y programar el robot utilizando el kit de Lego Education Spike Prime.
 - Realizar pruebas y ajustes necesarios para asegurar el correcto funcionamiento del robot.
 
-#### Descripción de la Fase:
+## Descripción de la Fase:
 :::tip[Narrativa] 
 "Es hora de poner manos a la obra y construir nuestro 'Rescatador de la Comunidad'. Este robot será nuestra base de operaciones y nos ayudará a realizar tareas importantes para el cuidado del medio ambiente en nuestra comunidad mediante la inspección y monitoreo de áreas clave. Sigamos los pasos del tutorial para ensamblar y programar nuestro robot para que pueda moverse y realizar las tareas que hemos definido. Recuerden, este robot es solo el comienzo; siéntanse libres de añadir cualquier pieza adicional que consideren adecuada según la problemática que quieren resolver."
 :::
 
-### Construcción del Robot
+## Construcción del Robot
 **Tiempo:** 30 minutos
 
 :::tip[Narrativa]
 "Imaginemos que nuestro robot es un guardián del medio ambiente que patrullará las áreas problemáticas de nuestra comunidad. Su misión es recolectar datos, monitorear áreas de riesgo y ayudar en tareas de conservación. Comencemos ensamblando nuestro guardián ambiental utilizando el tutorial de Spike Prime."
 :::
 
-#### Instrucciones:
+### Instrucciones:
 **Reparto de Equipos:**
 - Asigna a cada grupo un kit de Lego Education Spike Prime y una computadora o tablet con el software SPIKE™ App instalado.
 
@@ -38,21 +38,21 @@ sidebar_position: 3
 - Asegúrate de que todos los componentes estén correctamente conectados y ensamblados.
 - Motiva a los estudiantes a añadir piezas adicionales que consideren necesarias para resolver la problemática elegida.
 
-### Programación del Robot
+## Programación del Robot
 **Tiempo:** 20 minutos
 
 :::tip[Narrativa]
 "Ahora que hemos construido nuestro guardián ambiental, es hora de programarlo para que patrulle su área asignada. Su primer desafío será patrullar un área cuadrada, imaginando que está inspeccionando un parque comunitario para detectar y recoger basura. Si algún grupo termina rápido, podrán intentar un desafío adicional, como patrullar una zona con forma de estrella o rombo."
 :::
 
-#### Instrucciones:
+### Instrucciones:
 **Preparación del Área de Desafíos:**
 - **Docente:** Utiliza cinta de aislar para marcar en el suelo las áreas de los desafíos:
   - **Desafío 1:** Un cuadrado grande representando el parque comunitario.
   - **Desafío 2:** Un rombo para representar una zona de monitoreo más compleja.
   - **Desafío 3:** Una estrella para los estudiantes más avanzados que deseen un reto adicional.
 
-**Primer Desafío: Patrullaje del Parque Comunitario**
+## Desafío Principal: Patrullaje del Parque Comunitario
 :::tip[Narrativa]
 "Imaginemos que nuestro explorador ambiental debe patrullar un parque comunitario. Para hacer esto, programaremos el robot para que se mueva en un patrón cuadrado, inspeccionando cada esquina del parque."
 :::
@@ -106,7 +106,7 @@ Detener Robot
 4. Ejecutar el código y observar cómo el robot realiza el patrullaje en forma de cuadrado.
 5. Asegúrate de seguir las instrucciones detalladas en el software SPIKE™ App para cargar y ejecutar el archivo de proyecto. Este enfoque ayudará a los estudiantes a comprender mejor los movimientos y la lógica de programación mientras experimentan con el patrón de cuadrado en la práctica.
 
-**Desafío 2: Patrullaje de la Zona Rombo**
+## Desafío Secundario: Patrullaje de la Zona Rombo
 :::tip[Narrativa]
 "Imaginemos que nuestro explorador ambiental debe patrullar una zona crítica en forma de rombo. Este rombo representa una área compleja dentro de nuestra comunidad, como un cruce de caminos propenso a inundaciones o un área verde que necesita monitoreo constante. Para hacer esto, programaremos el robot para que se mueva en un patrón de rombo, inspeccionando cada ángulo de esta zona."
 :::
@@ -158,7 +158,7 @@ Detener Robot
 4. Ejecutar el código y observar cómo el robot realiza el patrullaje en forma de rombo.
 5. Asegúrate de seguir las instrucciones detalladas en el software SPIKE™ App para cargar y ejecutar el archivo de proyecto. Este enfoque ayudará a los estudiantes a comprender mejor los movimientos y la lógica de programación mientras experimentan con el patrón de rombo en la práctica.
 
-**Desafío Adicional: Patrullaje de la Zona Estrella**
+## Desafío Adicional: Patrullaje de la Zona Estrella
 :::tip[Narrativa]
 "Para aquellos grupos que hayan terminado el primer desafío, su explorador ambiental tiene una misión especial: patrullar una zona con forma de estrella. Esto ayudará a inspeccionar áreas más complejas del parque comunitario."
 :::
@@ -217,14 +217,14 @@ Detener Robot
 4. Ejecutar el código y observar cómo el robot realiza el patrullaje en forma de estrella.
 5. Asegúrate de seguir las instrucciones detalladas en el software SPIKE™ App para cargar y ejecutar el archivo de proyecto. Este enfoque ayudará a los estudiantes a comprender mejor los movimientos y la lógica de programación mientras experimentan con el patrón de estrella en la práctica.
 
-### Pruebas y Ajustes
+## Pruebas y Ajustes
 **Tiempo:** 10 minutos
 
 :::tip[Narrativa] 
 "Una vez que hayan programado su guardián ambiental, es hora de ponerlo a prueba. Vamos a ver cómo se desempeña en su patrullaje y realizar los ajustes necesarios para asegurar que funcione correctamente."
 :::
 
-#### Instrucciones:
+### Instrucciones:
 **Pruebas en el Área Designada:**
 - Cada grupo debe probar su robot en el área de desafío correspondiente marcada con cinta de aislar en el suelo.
 - Observen cómo se mueve el robot y si cumple con las tareas asignadas.

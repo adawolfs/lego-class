@@ -9,6 +9,7 @@ sidebar_position: 1
 :::
 
 ## Objetivos de la Fase:
+
 - Comprender la importancia de la conservación ambiental
 - Fomentar la empatía hacia los problemas ambientales a través de actividades interactivas y narrativas.
 - Integrar la robótica como herramienta para abordar problemas ambientales.

@@ -7,15 +7,15 @@ sidebar_position: 4
 **Duracion:** 10 minutos
 :::
 
-### Objetivo de la Fase:
+## Objetivo de la Fase:
 Evaluar cómo las soluciones robóticas de los estudiantes contribuyen a la conservación ambiental, utilizando tecnología avanzada para abordar problemas ecológicos. Esta evaluación también buscará identificar mejoras y ajustes necesarios en los prototipos para optimizar su impacto ambiental, al tiempo que se motiva a los estudiantes a través de un sistema de incentivos.
 
-**Descripción de la Fase:**
+## Descripción de la Fase:
 :::tip[Narrativa]
 "Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots. Además, revisaremos nuestro progreso en el sistema de recompensas, que nos motiva a seguir mejorando en cada sesión."
 :::
 
-**Instrucciones:**
+### Instrucciones:
 
 **Reflexión y Preguntas Clave**
 **Tiempo:** 3 minutos

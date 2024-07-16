@@ -8,7 +8,8 @@ sidebar_position: 4
 :::
 
 
-**Instrucciones:**
+## Instrucciones:
+
 1. **Cierre de la Sesión:**
    - Agradece a los estudiantes por su participación y esfuerzo.
    - Anima a los estudiantes a seguir aprendiendo y explorando el mundo de la robótica y la tecnología.
