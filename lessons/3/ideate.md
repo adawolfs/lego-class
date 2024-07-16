@@ -12,12 +12,13 @@ sidebar_position: 2
 Refinar y especificar la problemática ambiental a resolver utilizando el sensor ultrasónico.
 
 #### Descripción de la Fase:
-#### Narrativa:
+:::tip[Narrativa]
 "Hoy nos enfocaremos en profundizar nuestro entendimiento de los retos ambientales que enfrenta nuestra comunidad. Comencemos identificando y discutiendo problemáticas específicas que observamos en nuestro entorno. ¿Existen zonas afectadas por la acumulación de residuos que dificultan el paso y la limpieza? ¿Hay áreas naturales donde la intervención humana mínima es crucial para preservar la flora y fauna? ¿Cómo podemos abordar el monitoreo de regiones susceptibles a inundaciones sin causar disturbios adicionales?
 
 En esta fase de idear, cada uno de ustedes tiene la oportunidad de pensar críticamente sobre estas preguntas. Imaginen cómo podríamos utilizar herramientas y métodos innovadores para abordar estos desafíos sin recurrir inmediatamente a soluciones tecnológicas.
 
 Después de esta discusión, consideraremos cómo las tecnologías, como los sensores ultrasónicos, pueden ser utilizadas de manera inteligente y sostenible para enfrentar estos problemas. Este sensor, que puede medir distancias y detectar la presencia de objetos sin contacto físico, podría ofrecer nuevas perspectivas y soluciones a los problemas que hemos identificado. ¿Están listos para explorar cómo podemos aplicar nuestra comprensión para idear soluciones creativas y efectivas?"
+:::
 
 #### Instrucciones:
 **Introducción al Sensor Ultrasónico:**

@@ -11,16 +11,18 @@ sidebar_position: 4
 Evaluar el desempeño del robot y la efectividad de la programación. Proporcionar retroalimentación constructiva y planificar mejoras. Introducir el sistema de incentivos con insignias y puntos para motivar a los estudiantes a lo largo del programa.
 
 #### Descripción de la Fase:
-**Narrativa:**
+:::tip[Narrativa]
 "Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots. Además, revisaremos nuestro progreso en el sistema de recompensas, que nos motiva a seguir mejorando en cada sesión."
+:::
 
 #### Instrucciones:
 
 **Reflexión y Preguntas Clave**
 **Tiempo:** 3 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Reflexionemos sobre las actividades realizadas hoy. Compartamos nuestras experiencias y descubramos cómo podemos seguir mejorando."
+:::
 
 **Preguntas Clave:**
 1. Reflexionando sobre las situaciones ambientales simuladas hoy, ¿cómo contribuyó el robot a abordar estos desafíos? ¿Hubo algún obstáculo que el robot no pudo superar eficazmente?
@@ -35,8 +37,9 @@ Evaluar el desempeño del robot y la efectividad de la programación. Proporcion
 **Evaluación y Retroalimentación**
 **Tiempo:** 3 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Ahora vamos a evaluar nuestro desempeño utilizando rúbricas específicas para asegurarnos de que estamos en el camino correcto y podemos seguir mejorando."
+:::
 
 **Rúbricas de Evaluación:**
 
@@ -68,16 +71,18 @@ Evaluar el desempeño del robot y la efectividad de la programación. Proporcion
 **Presentación del Sistema de Insignias y Puntos**
 **Tiempo:** 2 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Recuerden que pueden ganar insignias y puntos por su desempeño. Al final del programa, podrán intercambiar sus puntos por premios. ¡Sigan trabajando duro y acumulen más puntos!"
+:::
 
 **Instrucciones:**
 - Explicar brevemente qué insignias y puntos se otorgaron durante la sesión y cómo se sumarán a los puntos totales de cada grupo.
 - Motivar a los estudiantes a esforzarse para ganar más insignias y puntos en las próximas sesiones.
 
 **Conclusión de la Fase de Evaluar**
-**Narrativa:**
+:::tip[Narrativa]
 "¡Excelente esfuerzo hoy, equipo! Han hecho un gran trabajo aplicando tecnología avanzada para abordar serias problemáticas ambientales. Su capacidad para integrar la tecnología en soluciones prácticas muestra un compromiso significativo con la conservación de nuestro entorno. Continúen llevando este entusiasmo y creatividad a las próximas sesiones, expandiendo aún más su impacto positivo en el mundo natural. ¡Sigan así!"
+:::
 
 **Instrucciones:**
 - Agradecer a los estudiantes por su participación y esfuerzo.

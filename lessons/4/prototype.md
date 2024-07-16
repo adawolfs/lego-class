@@ -11,10 +11,11 @@ sidebar_position: 3
 ### Objetivo de la Fase:
 Refinar y ampliar las capacidades del robot diseñado en sesiones anteriores para abordar problemáticas ambientales específicas, incorporando un motor mediano y un sensor táctil. Este enfoque permitirá a los estudiantes aplicar y profundizar su comprensión de cómo la tecnología puede interactuar y mitigar efectivamente los desafíos ambientales.
 
-**Narrativa:**
+:::tip[Narrativa]
 "En nuestra continua misión de conservación ambiental, hoy vamos a explorar nuevas capacidades que pueden transformar nuestro robot en un agente más activo en la gestión y mitigación de problemáticas ambientales. Expandiremos las funcionalidades de nuestro robot para que pueda interactuar de manera más efectiva con su entorno."
 
 "Pensemos en las diversas maneras en que esta nueva herramienta, una garra mecánica, podría utilizarse en el campo. ¿Podría ayudar a recoger muestras de áreas contaminadas, retirar desechos de lugares de difícil acceso o incluso asistir en la reubicación de especies pequeñas para estudios de conservación? Hoy los invito a imaginar y diseñar cómo este robot podría emplear su garra para realizar tareas que aporten significativamente a nuestra labor ambiental. Este enfoque nos permite no solo aprender sobre robótica sino también aplicar estos conocimientos de manera creativa para resolver retos reales."
+:::
 
 **Instrucciones:**
 
@@ -29,10 +30,9 @@ Refinar y ampliar las capacidades del robot diseñado en sesiones anteriores par
 ### Programación y Pruebas:
 
 #### Desafío 1: Limpieza de Espacios Verdes
-**Narrativa:**
-"Imaginen un parque local después de un evento de
-
- viento fuerte, lleno de desechos dispersos que necesitan ser limpiados. Este primer desafío les pide que programen el robot para que pueda navegar por el parque y utilizar su garra para recoger pequeños desechos, activando la garra a través del sensor táctil cada vez que se encuentre con un objeto."
+:::tip[Narrativa]
+"Imaginen un parque local después de un evento de viento fuerte, lleno de desechos dispersos que necesitan ser limpiados. Este primer desafío les pide que programen el robot para que pueda navegar por el parque y utilizar su garra para recoger pequeños desechos, activando la garra a través del sensor táctil cada vez que se encuentre con un objeto."
+:::
 
 **Pseudocódigo sin Bucle:**
 ```plaintext
@@ -67,8 +67,9 @@ Repetir 5 veces:
 ```
 
 #### Desafío 2: Rescate de Especies en Miniatura
-**Narrativa:**
+:::tip[Narrativa]
 "En este escenario, se simula un bosque donde varias especies pequeñas están atrapadas entre escombros después de una inundación. El objetivo es utilizar el robot para navegar a través de un terreno lleno de obstáculos, utilizando el sensor ultrasónico para evitar colisiones, y el sensor táctil para activar la garra y rescatar a las especies en miniatura."
+:::
 
 **Pseudocódigo sin Bucle:**
 ```plaintext

@@ -11,16 +11,19 @@ sidebar_position: 4
 Evaluar cómo las soluciones robóticas de los estudiantes contribuyen a la conservación ambiental, utilizando tecnología avanzada para abordar problemas ecológicos. Esta evaluación también buscará identificar mejoras y ajustes necesarios en los prototipos para optimizar su impacto ambiental, al tiempo que se motiva a los estudiantes a través de un sistema de incentivos.
 
 **Descripción de la Fase:**
-**Narrativa:**
+:::tip[Narrativa]
 "Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots. Además, revisaremos nuestro progreso en el sistema de recompensas, que nos motiva a seguir mejorando en cada sesión."
+:::
 
 **Instrucciones:**
 
 **Reflexión y Preguntas Clave**
 **Tiempo:** 3 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Reflexionemos sobre las actividades realizadas hoy. Compartamos nuestras experiencias y descubramos cómo podemos seguir mejorando."
+:::
+
 
 **Preguntas Clave:**
 1. ¿De qué manera el diseño y la programación del robot permitieron enfrentar los retos ambientales planteados hoy? ¿Identificaron alguna limitación en el robot que impidiera resolver ciertos problemas eficazmente?
@@ -35,8 +38,9 @@ Evaluar cómo las soluciones robóticas de los estudiantes contribuyen a la cons
 **Evaluación y Retroalimentación**
 **Tiempo:** 3 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Ahora vamos a evaluar el desempeño utilizando rúbricas específicas para asegurarnos de que estamos en el camino correcto y los estudiantes puedan seguir mejorando."
+:::
 
 **Rúbricas de Evaluación:**
 
@@ -70,13 +74,15 @@ Evaluar cómo las soluciones robóticas de los estudiantes contribuyen a la cons
 
 
 
-**Narrativa:**
+:::tip[Narrativa]
 "Recuerden que pueden ganar insignias y puntos por su desempeño. Al final del programa, podrán intercambiar sus puntos por premios. ¡Sigan trabajando duro y acumulen más puntos!"
+:::
 
 **Instrucciones:**
 - Dar visibilidad de cómo van las insignias y puntos que se le han otorgado a cada grupo para motivar más e incentivar los puntos totales en cada grupo.
 - Motivar a los estudiantes a esforzarse para ganar más insignias y puntos en las próximas sesiones.
 
 **Conclusión de la Fase de Evaluar**
-**Narrativa:**
+:::tip[Narrativa]
 "¡Gran trabajo hoy, equipo! Han demostrado un uso impresionante de la tecnología para enfrentar desafíos ambientales críticos. La forma en que han aplicado sus conocimientos técnicos para desarrollar soluciones efectivas es un verdadero testimonio de su dedicación a la conservación ambiental. Lleven esta pasión y creatividad a nuestras futuras sesiones, y continúen ampliando su impacto positivo en el medio ambiente. ¡Adelante con ese ímpetu!"
+:::

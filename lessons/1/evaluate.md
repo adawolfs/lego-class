@@ -17,8 +17,9 @@ sidebar_position: 3
 ### Reflexión y Preguntas Clave
 **Tiempo:** 8 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Para consolidar lo que hemos aprendido hoy, reflexionemos sobre las actividades realizadas y cómo nos hemos familiarizado con los componentes y el software."
+:::
 
 **Instrucciones:**
 1. **Preguntas Clave:**
@@ -57,8 +58,9 @@ Los docentes utilizarán rúbricas para evaluar el rendimiento de cada estudiant
 ### Presentación del Sistema de Insignias y Puntos
 **Tiempo:** 3 minutos
 
-**Narrativa:**
+:::tip[Narrativa]
 "Además de aprender sobre robótica y conservación ambiental, queremos hacer este programa aún más divertido y emocionante. A lo largo de las sesiones, podrán ganar insignias por alcanzar ciertos objetivos y demostrar sus habilidades. Estas insignias les permitirán acumular puntos que podrán intercambiar por premios al final del programa."
+:::
 
 **Instrucciones:**
 1. **Presentación del Sistema de Insignias:**

@@ -13,7 +13,10 @@ sidebar_position: 4
 - Introducir el sistema de incentivos con insignias y puntos para motivar a los estudiantes a lo largo del programa.
 
 #### Descripción de la Fase:
-**Narrativa:** "Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots."
+
+:::tip[Narrativa]
+"Para concluir nuestra sesión de hoy, vamos a reflexionar sobre lo que hemos aprendido y cómo podemos mejorar nuestros robots."
+:::
 
 #### Instrucciones:
 **Reflexión y Preguntas Clave:**
@@ -60,7 +63,9 @@ sidebar_position: 4
 **Presentación del Sistema de Insignias y Puntos:**
 **Tiempo:** 2 minutos
 
-**Narrativa:** "Recuerden que pueden ganar insignias y puntos por su desempeño. Al final del programa, podrán intercambiar sus puntos por premios. ¡Sigan trabajando duro y acumulen más puntos!"
+:::tip[Narrativa]
+"Recuerden que pueden ganar insignias y puntos por su desempeño. Al final del programa, podrán intercambiar sus puntos por premios. ¡Sigan trabajando duro y acumulen más puntos!"
+:::
 
 **Instrucciones:** Explicar brevemente qué insignias y puntos se otorgaron durante la sesión y cómo se sumarán a los puntos totales de cada grupo.
 

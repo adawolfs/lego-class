@@ -48,8 +48,9 @@ Instrucciones:
 ### Tutoriales Interactivos de Componentes
 *Duración: 35 minutos*
 
-**Narrativa:**
+:::tip[Narrativa]
 "Vamos a seguir los tutoriales interactivos que nos ayudarán a entender cómo usar cada uno de los componentes del kit. Estos tutoriales nos guiarán paso a paso en el proceso de conectar, programar y probar los motores y sensores."
+:::
 
 **Instrucciones:**
 
