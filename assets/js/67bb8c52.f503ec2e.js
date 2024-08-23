@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklego_class=self.webpackChunklego_class||[]).push([[7346],{275:s=>{s.exports=JSON.parse('{"permalink":"/lego-class/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
